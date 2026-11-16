@@ -1,0 +1,1 @@
+# Nova Browser ProGuard rules (minification disabled for the first build).
